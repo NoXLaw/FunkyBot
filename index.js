@@ -58,12 +58,12 @@ const start = async (tobz = new Client()) => {
             }))
         
         tobz.onAddedToGroup(async (chat) => {
-            if(isWhite(chat.id)) return tobz.sendText(chat.id, 'Halo aku Elaina, Ketik #help Untuk Melihat List Command Ku...')
+            if(isWhite(chat.id)) return tobz.sendText(chat.id, 'Halo aku FunkY - BOT, Ketik #help Untuk Melihat List Command Ku...')
             if(mtcState === false){
                 const groups = await tobz.getAllGroups()
                 // BOT group count less than
                 if(groups.length > groupLimit){
-                    await tobz.sendText(chat.id, 'Maaf, Batas group yang dapat Elaina tampung sudah penuh').then(async () =>{
+                    await tobz.sendText(chat.id, 'Maaf, Batas group yang dapat FunkY - BOT tampung sudah penuh').then(async () =>{
                         tobz.deleteChat(chat.id)
                         tobz.leaveGroup(chat.id)
                     })
@@ -78,7 +78,7 @@ const start = async (tobz = new Client()) => {
                     }
                 }
             }else{
-                await tobz.sendText(chat.id, 'Elaina sedang maintenance, coba lain hari').then(async () => {
+                await tobz.sendText(chat.id, 'FunkY - BOT sedang maintenance, coba lain hari').then(async () => {
                     tobz.deleteChat(chat.id)
                     tobz.leaveGroup(chat.id)
                 })
