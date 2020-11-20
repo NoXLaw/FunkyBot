@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="ELAINA BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FunkY - BoT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Rakha21"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
@@ -14,30 +14,9 @@
 <a href="https://github.com/TobyG74/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Information
 
-- Change ownerNumber in tobz.js to be your number
-ownerNumber = "6213xxxxxx@c.us"
-- Change adminNumber in admin.json to be your number
-[] -> ["62813xxxxxx@c.us"]
 
-## Contact
 
-If you find some bugs please contact the WhatsApp number on Contact
-
-- [Telegram](https://t.me/tobz2k19)
-- [Whatsapp](https://wa.me/6281311850715)
-- [BOT WA](wa.me/447723992261)
-- [GROUP WA](https://chat.whatsapp.com/InZrGpgBBNB4hnS7Q6sVJG)
-
-## APIKEY
-Open tobz.js then edit & paste it in YOUR_APIKEY
-- [VHTEAR](https://api.vhtear.com)
-- [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
-
-## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
 
 ## Getting Started
 
@@ -182,19 +161,5 @@ after running it you need to scan the qr
 
 ---
 
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
 
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-
-## 🙏Special Thanks To
-<ul>
-<li>https://github.com/open-wa/wa-automate-nodejs<br>
-<li>https://github.com/YogaSakti/imageToSticker<br>
-<li>https://github.com/MhankBarBar/whatsapp-bot<br>
-<li>https://github.com/ItzNgga/wa-bot<br>
 </li>
