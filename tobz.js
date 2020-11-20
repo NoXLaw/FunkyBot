@@ -634,7 +634,7 @@ ${desc}`)
             break
         case '#owner':
         case '#creator':
-            tobz.sendContact(chatId, `6281311850715@c.us`)
+            tobz.sendContact(chatId, `6282138746029@c.us`)
             tobz.reply(from, 'Itu nomor Pacar ku, eh maksudnya Owner ku', id)
             break
         // ON OFF
